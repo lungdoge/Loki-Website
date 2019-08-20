@@ -1,4 +1,4 @@
-#Home Page
+# Home Page
 
 *Menu Bar* 
 
@@ -160,7 +160,7 @@ About Us
 Contact Us 
 
 
-#Papers
+# Papers
 
 Reading Material 
  
@@ -184,19 +184,19 @@ Date:
 Authors: 
 Description: Strategic Game Theory behind the economics of the Loki cryptocurrency with specific analysis directed towards a suitable staking requirement. 
 
-#Media
+# Media
 
 Media Appearances 
 Podcasts 
 Videos 
 Mentions 
 
-#Team
+# Team
 
 Team 
 Supported by 
 
-#Get Started 
+# Get Started 
 
 **Section 1**
 
