@@ -1,6 +1,6 @@
 # ホムパジュ
 
-*Menu Bar*
+*メニューバー*
 
 ホム
 ドクス
@@ -25,241 +25,146 @@ Get Started
 
 **Section 1**
 
-Trade and communication with absolute freedom
+絶対的な自由のある貿易とコミュニケーション
 
-Loki creates privacy tools that enable untraceable, secure transactions and anonymous communication
+Lokiは、追跡不可能で安全なトランザクションと匿名通信を可能にするプライバシーツールを作成します
 
-Whitepaper
-Subscribe
+ホワイトペーパー登録
 
-**Section 2**
+**第2節**
 
-Send private transactions
-Send private messages
-Send private data
-Send private Loki
-Send private cash
-What is Loki?
+プライベートトランザクションの送信プライベートメッセージの送信プライベートデータの送信プライベートロキの送信プライベートキャッシュの送信ロキとは？
 
-We create private tools!
+私たちはプライベートツールを作成します！
 
-Loki is a privacy network which will allow users to transact and communicate privately over the internet, providing a suite of tools to help maintain the maximum amount of anonymity possible while browsing, transacting and communicating online.
+Lokiは、ユーザーがインターネット上で個人的に取引および通信できるようにするプライバシーネットワークであり、オンラインでの閲覧、取引、通信中に可能な限り最大の匿名性を維持するためのツールスイートを提供します。
 
-Using the decentralised nature of blockchain technology, Loki creates new private and secure methods of interacting with the internet, as well as building privacy-centric applications, such as messaging services, forums, online marketplaces, and social media platforms.
+Lokiは、ブロックチェーンテクノロジーの分散型の性質を使用して、インターネットと対話する新しいプライベートで安全な方法を作成し、メッセージングサービス、フォーラム、オンラインマーケットプレイス、ソーシャルメディアプラットフォームなどのプライバシー中心のアプリケーションを構築します。
 
-Loki Wallet
+ロキ財布
 
-Loki Messenger Beta
+Loki Messengerベータ
 
-Lokinet
+ロキネット
 
-**Section 3**
+**セクション3**
 
-Why Loki?
+なぜロキ？
 
-Loki Messenger
+ロキメッセンジャー
 
-Loki Messenger is a decentralised private messaging application for all platforms. Have peace of mind with anonymity and an unstoppable messaging app.
+Loki Messengerは、すべてのプラットフォーム向けの分散型プライベートメッセージングアプリケーションです。匿名性と止められないメッセージングアプリで安心してください。
 
-Lokinet
+ロキネット
 
-Lokinet is a unique, blockchain enforced and incentivized mixnet, where you can browse the internet anonymously, visit and host private websites all without exposing your identity or IP address.
+Lokinetは、独自のブロックチェーンで実施され、インセンティブ化されたミックスネットです。匿名でインターネットを閲覧したり、個人のWebサイトにアクセスしたり、ホストしたりできます。
 
 SNApps
 
-SNApps (Service Node Applications) allow you to host hidden private web applications inside of Lokinet. With SNApps you can build censorship-resistant social media platforms, news sites, marketplaces and other communities. The possibilities are endless.
+SNApps（サービスノードアプリケーション）を使用すると、Lokinet内で非公開のプライベートWebアプリケーションをホストできます。 SNAppsを使用すると、検閲に強いソーシャルメディアプラットフォーム、ニュースサイト、マーケットプレイス、その他のコミュニティを構築できます。可能性は無限大。
 
-Service Nodes
+サービスノード
 
-Service Nodes do the heavy lifting on the Loki network and get a significant financial reward for their efforts. With Service Nodes you can host services, run SNApps, and browse the Lokinet. Get paid to make the internet a more private place.
+サービスノードは、Lokiネットワークの面倒な作業を行い、その努力に対して大きな経済的報酬を受け取ります。サービスノードを使用すると、サービスをホストし、SNAppを実行し、Lokinetを閲覧できます。インターネットをよりプライベートな場所にするために報酬を得てください。
 
-Find out more
+詳細をご覧ください
 
 **セクション3**
 
 ロードマップ
 
-March 31, 2019
+2019年3月31日
 
-• Lokinet Alpha
-• Infinite Staking
-• SNApps Alpha
-• New GUI Wallet
+•Lokinet Alpha•Infinite Staking•SNApps Alpha•新しいGUIウォレット
 
-June 30, 2019
+2019年6月30日
 
-• Service Node Bundled Launcher
-• iOS Loki Wallet
-• Payment ID Depreciation
-• Service Node Checkpointing
-• Service Node Testing Suite
-• Loki Locker
-• Loki Messenger Alpha
-• Loki Messenger iOS Alpha
+•サービスノードバンドルランチャー•iOS Loki Wallet•支払いID減価償却•サービスノードチェックポイント設定•サービスノードテストスイート•Loki Locker•Loki Messenger Alpha•Loki Messenger iOS Alpha
 
-September 30, 2019
+2019年9月30日
 
-• Loki Messenger Android
-• Blink
-• Lokinet Onion Key Rotation
-• Lokinet RC Expiration
-• Lokinet Android Client
-• Loki Name System
+•Loki Messenger Android•点滅•Lokinetオニオンキーローテーション•Lokinet RC Expiration•Lokinet Androidクライアント•Lokiネームシステム
 
-December 31, 2019
+2019年12月31日
 
-• Hardware Wallet Integration
-• Enforced Service Node Testing
-• In-Browser Loki Wallet
-• Lokinet Exit Functionality
-• Lokinet iOS Client
+•ハードウェアウォレットの統合•強制サービスノードテスト•ブラウザー内のLokiウォレット•Lokinet Exit機能•Lokinet iOSクライアント
 
-Twitter Feed
+ツイッターフィード
 
-Information
-Reading Material
-Team
-Documentation
-Blog
-Media
-Github
-FAQ
+情報閲覧資料チームドキュメントブログメディアGithub FAQ
 
-*Footer*
+*フッター*
 
-Products
-Loki Messenger Desktop
-Loki Messenger iOS
-Loki Messenger Android
-Lokinet
-SNApps
-Service Nodes
-Wallets
-Electron Wallet
-Command Line Wallet
+製品Loki MessengerデスクトップLoki Messenger iOS Loki Messenger Android Lokinet SNAppsサービスノードウォレット電子ウォレットコマンドラインウォレットLoki Locker閲覧資料ホワイトペーパー暗号経済Lokiゲーム理論プライバシーポリシーチャンネルメディアイベントブログソーシャルズビットコイントークテレグラム不一致Twitter Youtube Facebook会社概要チームサポーターお問い合わせ
 
-Loki Locker
-Reading Material
-Whitepaper
-Cryptoeconomics
-Loki Game Theory
-Privacy Policy
-Channels
-Media
-Events
-Blog
-Socials
-Bitcoin Talk
-Telegram
-Discord
-Twitter
-Youtube
-Facebook
-About Us
-Team
-Supporters
-Contact Us
+# 論文
 
-# Papers
+読み物
 
-Reading Material
+Loki Projectは定期的に論文と改訂版をリリースしています。プロジェクトが成長するにつれて、プロジェクトの多くの側面が改訂と更新に直面し、プロジェクトが新しい分野に進出すると、より多くの研究が行われます。 Loki Foundationは、プロジェクトチームとコミュニティができる限り最新の情報を入手できるように、リソースを常に研究に振り向けることを義務付けています。
 
-The Loki Project releases papers and revisions on a regular basis. As the project has grown, many aspects of the project have faced revisions and updates, and as the project ventures into new fields, more research is done. The Loki Foundation mandates that resources are constantly directed at research so that the project teams and the community can be as up to date and as informed as possible.
+ホワイトペーパーリビジョン：日付：著者：説明：一般的なテクニカルホワイトペーパー。経済構造を詳しく調べることなく、Lokiの高レベルの設計について説明します。
 
-Whitepaper
-Revision:
-Date:
-Authors:
-Description: General technical whitepaper. Discusses the high-level design of Loki, without delving into the economic structure.
+経済提案の改訂：日付：著者：説明：Lokiの暗号経済への変更の提案。市場ベースのシビル攻撃耐性を維持しながら、サービスノードの持続可能な報酬スキームを維持するために、Lokiの経済構造について詳しく説明します。
 
-Economic Proposal
-Revision:
-Date:
-Authors:
-Description: Proposal for alterations to the cryptoeconomics of Loki. Discusses in-depth the economic structure of Loki in order to maintain a sustainable reward scheme for Service Nodes while maintaining market-based Sybil attack resistance.
+Cryptoeconomics改訂：日付：著者：説明：Loki暗号通貨の経済学の背後にある戦略的ゲーム理論と、適切なステーキング要件に向けられた特定の分析。
 
-Cryptoeconomics
-Revision:
-Date:
-Authors:
-Description: Strategic Game Theory behind the economics of the Loki cryptocurrency with specific analysis directed towards a suitable staking requirement.
+# メディア
 
-# Media
+メディアの外観ポッドキャストビデオメンション
 
-Media Appearances
-Podcasts
-Videos
-Mentions
+# チーム
 
-# Team
+支援チーム
 
-Team
-Supported by
+# 始めましょう
 
-# Get Started
+**セクション1**
 
-**Section 1**
+ロキ財布
 
-Loki Wallet
+Lokiを保持および保護するには、Lokiウォレットが必要です。
 
-You will need the Loki wallet to hold and secure Loki.
+コマンドラインインターフェースに慣れている場合は、Windows、Linux、Mac OSと互換性のあるCLIウォレットをダウンロードすることもできます。
 
-If you feel more comfortable with command-line interface, you can also download our CLI wallet, which is compatible for Windows, Linux and Mac OS.
+インストールガイド
 
-Installation Guide
+GPUマイニングに興味がある場合は、マイニングソフトウェアをダウンロードしてください。
 
-If you are interested in GPU mining, download a mining software.
+マイニングに関する情報
 
-Information on mining
+ダウンロード
 
-Download
+Windows向けWallet Linux向けWallet Mac向けWallet iOS向けWallet Android向けWalletまたはインストールコマンドラインツール
 
-Wallet for Windows
-Wallet for Linux
-Wallet for Mac OS
-Wallet for iOS
-Wallet for Android
-or
-Install command line tools
+**第2節**
 
-**Section 2**
+ロキメッセンジャー
 
-Loki Messenger
+lokiネットワークを介して個人的にメッセージを送信したいですか？
 
-Want to send messages privately through the loki network?
+Lokiネットワークで最初に開発および展開されるLokiサービスは、Loki Messengerと呼ばれる分散型のエンドツーエンド暗号化プライベートメッセージングアプリケーションです。メッセンジャーに関する情報
 
-The first Loki service to be developed and deployed on the Loki network will be a decentralised, end-to-end encrypted private messaging application called Loki Messenger.
+Lokiサービスは、Lokiネットワークのプロトコルレベルに基づいて構築されています。 Loki Servicesは、サービスノードレイヤーを活用して、分散サービスを可能にします。
 
-Information on Messenger
+Lokiサービスに関する情報
 
-Loki Services are built upon the protocol level of the Loki network. Loki Services leverage the Service Node layer to allow for decentralised services.
+ダウンロード
 
-Information on Loki Services
+Windows用メッセンジャーLinux用メッセンジャーMac OS用メッセンジャーAndroid用メッセンジャーiOS用メッセンジャーまたはソースコードからビルド
 
-Download
+**セクション3**
 
-Messenger for Windows
-Messenger for Linux
-Messenger for Mac OS
-Messenger for Android
-Messenger for iOS
-Or
-Build from source code
+ロキネット
 
-**Section 3**
+検閲抵抗ウェブをプライベートに閲覧し、SNAppsにアクセスするには、Lokinetが必要です。
 
-Lokinet
+ロキネットのウェブサイト
 
-You will need Lokinet to privately browse the censorship resistance web and access SNApps.
+独自のSNAppのホストに興味がある場合は、次のガイドをお読みください。
 
-Lokinet Website
+公開テストの概要
 
-If you are interested in hosting your own SNApp, please read through the following guide.
+ダウンロード
 
-Public Testing Overview
-
-Download
-
-Lokinet for Windows
-Lokinet for Linux
-Lokinet for Mac OS
+Lokinet for Windows Lokinet for Linux Lokinet for Mac OS
